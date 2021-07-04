@@ -1,4 +1,4 @@
-#Rebuilding the Mac Calculator Using React.js
+# Rebuilding the Mac Calculator Using React.js
 
 The images below show the result of this project:
 
